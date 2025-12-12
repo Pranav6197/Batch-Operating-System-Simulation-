@@ -63,22 +63,6 @@ This project simulates a **Batch Operating System** with advanced memory managem
 
 ---
 
-## 📁 Project Structure
-
-```
-Phase03/
-├── phase2.cpp                    # Main OS Simulator Implementation
-├── input.txt                     # Input data for job execution
-├── output.txt                    # Output results
-├── input2.txt                    # Alternative input file
-├── output2.txt                   # Alternative output file
-├── Job.txt                       # Job specifications
-├── Operating_System_Simulator.cpp # Additional implementation
-├── README.md                     # Project documentation
-└── .git/                         # Git repository
-```
-
----
 
 ## 🏗️ System Architecture
 
